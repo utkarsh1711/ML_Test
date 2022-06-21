@@ -1,0 +1,11 @@
+Blur
+Dark
+Fake
+Glare
+Harpic_Back
+Harpic_Front
+Harpic_Front_Bottom
+Harpic_Front_OR
+Harpic_New_Front
+Harpic_New_Imp
+No_Product
